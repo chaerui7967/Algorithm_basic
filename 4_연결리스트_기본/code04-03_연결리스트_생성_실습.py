@@ -35,3 +35,6 @@ if __name__ == '__main__':
         node.data = data
         pre.link = node
         memory.append(node)
+
+# 출력확인
+printNode(memory[0])
